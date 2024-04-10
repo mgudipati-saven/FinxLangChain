@@ -1,5 +1,7 @@
 {
   "files.autoSave": "afterDelay",
   "editor.tabSize": 2,
-  "editor.wordWrap": "off"
+  "editor.wordWrap": "off",
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.fontLigatures": true
 }
